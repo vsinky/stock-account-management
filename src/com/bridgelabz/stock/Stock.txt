@@ -1,0 +1,4 @@
+Welcome to all company !!!
+Jio     100  400
+Realme  100  200
+Dell    100  100
